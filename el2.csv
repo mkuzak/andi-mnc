@@ -1,0 +1,7 @@
+X1,X2,cx,cy,test1,test2,rx,ry,angle
+2,1,0,0,AVLT-delayed_recall_1_to_5,AVLT-total_1_to_5,2.618955,1.098213,40.32919
+3,1,0,0,AVLT-recognition_1_to_5,AVLT-total_1_to_5,2.617045,1.446165,33.93054
+4,1,0,0,RBMT-prose_1_immrec,AVLT-total_1_to_5,2.640352,1.758317,20.63909
+4,2,0,0,RBMT-prose_1_immrec,AVLT-delayed_recall_1_to_5,2.712192,1.903872,28.81062
+4,3,0,0,RBMT-prose_1_immrec,AVLT-recognition_1_to_5,2.71168,2.121986,33.4007
+3,2,0,0,AVLT-recognition_1_to_5,AVLT-delayed_recall_1_to_5,2.537052,1.849665,36.56248
